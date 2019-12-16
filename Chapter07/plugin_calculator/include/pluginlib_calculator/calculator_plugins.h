@@ -2,7 +2,7 @@
 #define PLUGINLIB_CALCULATOR_CALCULTOR_PLUGINS_H_
 #include <pluginlib_calculator/calculator_base.h>
 #include <cmath>
-
+#include <iostream>
 namespace calculator_plugins 
 {
 
